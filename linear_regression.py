@@ -1,7 +1,9 @@
 import numpy as np
 import pandas as pd
-from sklearn.linear_model import LinearRegression as lin
 import matplotlib.pyplot as plt
+
+# SKLEARN IS BEING USED FOR COMPARISION PURPOSES ONLY...
+from sklearn.linear_model import LinearRegression as lin
 
 
 # IMPORTING AND PREPROCESSING THE DATA FILE...
